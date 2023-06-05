@@ -4,6 +4,7 @@
     padding: 8px;
     border: 8px;
     font-family: hack, sans-serif;
+    border-radius: 25px;
 }
 .h1 {
     background-color: royalblue;
@@ -14,7 +15,7 @@
 .h2{
     color: black;
     background-color: yellow;
-    margin: auto;
+    margin: 4px auto;
     width: 500px;
 }
 
